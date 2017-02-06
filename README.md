@@ -30,4 +30,7 @@ Tasks
 Here is a link to one of my favorit sites: [PBS](http://www.pbs.org/)  
 
 This is an 18th-century oil painting by **Jean-Honoré Fragonard**.  
-![A Young Girl Reading](https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Fragonard%2C_The_Reader.jpg/230px-Fragonard%2C_The_Reader.jpg)
+![A Young Girl Reading](https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Fragonard%2C_The_Reader.jpg/230px-Fragonard%2C_The_Reader.jpg)  
+
+Note: I have revised the last modify-readme as follows:  
+Added sub-lists, a new paragraph, and the Task section.  I have also modified the first paragraph.
